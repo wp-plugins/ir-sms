@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Wordpress SMS Plugin
+Plugin Name: Hostiran SMS Plugin
 Plugin URI: http://www.hostiran.net/sms/plugins
 Description: Send SMS Via Wordoress.
 Version: 1.0
