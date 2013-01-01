@@ -1,4 +1,4 @@
-=== WP SMS ===
+=== Wordpress SMS Plugin ===
 Contributors: mostafa.s1990
 Donate link: http://iran98.org/
 Tags: sms, wordpress, send, subscribe, sms subscribe, message, register
