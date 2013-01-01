@@ -32,10 +32,10 @@ Features:
 or using this Shortcode `[subscribe]` in Posts pages or Widget.
 
 == Screenshots ==
-1. Screen shot (screenshot-1.png) in SMS Setting page.
-2. Screen shot (screenshot-2.png) in Send SMS page.
-3. Screen shot (screenshot-3.png) in Archives sms page.
-4. Screen shot (screenshot-4.png) in Subscribes list page.
+1. Screen shot (screen-shot-1.png) in SMS Setting page.
+2. Screen shot (screen-shot-2.png) in Send SMS page.
+3. Screen shot (screen-shot-3.png) in Archives sms page.
+4. Screen shot (screen-shot-4.png) in Subscribes list page.
 
 == Upgrade Notice ==
 = 1.0 =
